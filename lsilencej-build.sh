@@ -8,7 +8,7 @@ DTBOIMG="dtbo.img"
 UMIDEFCONFIG="lsilencej_umi_defconfig"
 
 # Build dirs
-KERNEL_DIR="/home/lsilencej/android/White-Wolf-UMI-UNI"
+KERNEL_DIR="/home/lsilencej/android/White-Wolf-UMI-UNI-KernelSU"
 ANYKERNEL_DIR="/home/lsilencej/android/AnyKernel3"
 MODULES_DIR="/home/lsilencej/android/AnyKernel3/modules/system/lib/modules"
 
@@ -17,7 +17,7 @@ CLANG_DIR="/home/lsilencej/android/toolchains/google-clang/bin"
 GCC_DIR="/home/lsilencej/android/toolchains/google-gcc/bin"
 
 # Kernel Details
-LSILENCEJ_UMI_VER="WHITE.WOLF.UNI.R.UMI.040"
+LSILENCEJ_UMI_VER="WHITE.WOLF.UNI.R.UMI.050"
 
 # Vars
 export ARCH=arm64
