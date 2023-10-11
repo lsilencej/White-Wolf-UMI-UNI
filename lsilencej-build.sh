@@ -17,7 +17,7 @@ CLANG_DIR="/home/lsilencej/android/toolchains/google-clang/bin"
 GCC_DIR="/home/lsilencej/android/toolchains/google-gcc/bin"
 
 # Kernel Details
-LSILENCEJ_UMI_VER="WHITE.WOLF.UNI.R.UMI.050"
+LSILENCEJ_UMI_VER="WHITE.WOLF.UNI.R.UMI.060"
 
 # Vars
 export ARCH=arm64
